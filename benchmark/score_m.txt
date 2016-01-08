@@ -1,0 +1,8 @@
+Name              alpha		   beta 
+Performance       0.2		   10276835
+Variation         0.2		   0.53
+Runtime           0.15		   1200
+Size              0.05		   1536
+Memory            0.05		   32768
+Line              0.2		   6052
+Outlier           0.15		   27.56

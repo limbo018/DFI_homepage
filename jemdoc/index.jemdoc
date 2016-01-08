@@ -1,0 +1,81 @@
+# jemdoc: addcss{jemdoc/jemdoc.css}
+# jemdoc: addcss{jemdoc/myExtra.css}
+# jemdoc: title{Dummy Fill Insertion}
+
+
+# ==== Title and Authors
+{{
+<p><center><font size="8" face="Times New Roman" color="b54900">
+DFI: Dummy Fill Insertion
+</font></center></p>
+}}
+
+
+{{<div id="intro">}}
+== Introduction
+
+~~~
+#{}{img_left}{jemdoc/img/stitch_place_algo_0.jpg}{mcc}{244}{}{}
+
+We present *DFI*, a fill optimization framework with multiple objectives and constraints.
+
+~~
+
+{{</div>}}
+
+
+
+{{<div id="excu">}}
+== Executables
+
+- Updated executables: [executables/DFI_01-08-2016.tar.gz Version 2.0.1]
+
+- Evaluation scripts: [executables/evaluation_11-27-2015.tar.gz Version 2.0.1]
+
+{{</div>}}
+
+
+{{<div id="bench">}}
+== Benchmarks
+
+- ICCAD 2014 Contest Benchmarks:
+[benchmark/iccad2014_dfm.tar.gz s,m,b]
+
+- Score Configurations: 
+[benchmark/score_s.txt s]
+, 
+[benchmark/score_m.txt m]
+, 
+[benchmark/score_b.txt b]
+
+{{</div>}}
+
+
+{{<div id="publication">}}
+== Publications
+
+- Yibo Lin, Bei Yu and David Z. Pan, 
+  "[http://dl.acm.org/citation.cfm?id=2744769.2744850 High Performance Dummy Fill Insertion with Coupling and Uniformity Constraints]", 
+  ACM/IEEE Design Automation Conference (DAC), pp. 71:1-71:6, San Francisco, CA, June 7-11, 2015. 
+
+{{</div>}}
+
+
+{{<div id="contact">}}
+== Contact
+
+TPLPlace is developed by
+[http://www.cerc.utexas.edu/~yibolin Yibo Lin],
+[http://www.cerc.utexas.edu/~bei Bei Yu],
+and [http://users.ece.utexas.edu/~dpan/ Prof. David Z. Pan].
+Please [mailto:yibolin@utexas.edu contact us] with any bug reports and comments. 
+
+{{</div>}}
+
+
+{{<div id="link">}}
+== Links
+
+{{</div>}}
+
+

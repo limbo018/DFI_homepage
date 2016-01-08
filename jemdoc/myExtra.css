@@ -1,0 +1,40 @@
+
+body{
+   min-width:840px;
+   max-width:1040px;
+   text-align:center; /*For IE6 Shenanigans*/
+}
+
+*{
+   margin:0;
+   padding:0;
+}
+
+ul{
+  padding-left: 1.4em;
+}
+
+li{
+  padding-left: 1.4em;
+  margin-left:  2.4em;
+}
+
+div.menu-category {
+	/*border-bottom: 1px solid gray;*/
+	margin-top: 0.8em;
+	padding-top: 0.2em;
+	padding-bottom: 0.1em;
+	font-weight: bold;
+}
+
+/*
+a:hover {
+	color: #000000 ;
+	background: #f4f605;	
+	border-bottom: 1px #999900 solid ;
+}
+*/
+#layout-menu a:hover
+{
+	color: #000000 ;
+}

@@ -17,6 +17,7 @@ DFI: Dummy Fill Insertion
 ~~~
 #{}{img_left}{jemdoc/img/stitch_place_algo_0.jpg}{mcc}{244}{}{}
 
+This project is inspired by ICCAD 2014 DFM contest. 
 We present *DFI*, a fill optimization framework with multiple objectives and constraints.
 
 ~~
@@ -40,6 +41,7 @@ We present *DFI*, a fill optimization framework with multiple objectives and con
 
 - ICCAD 2014 Contest Benchmarks:
 [benchmark/iccad2014_dfm.tar.gz s,m,b]
+([https://drive.google.com/file/d/0B02ttNG0JA4lNUdrOTQ0WnE3NE0/view?usp=sharing backup])
 
 - Score Configurations: 
 [benchmark/score_s.txt s]

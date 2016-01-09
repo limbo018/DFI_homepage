@@ -19,7 +19,7 @@ This project is inspired by [http://cad_contest.ee.ncu.edu.tw/CAD-contest-at-ICC
 We present *DFI*, a fill optimization framework with multiple objectives and constraints.
 
 ~~~
-{}{img_left}{jemdoc/img/flow.jpg}{flow}{300}{}{}
+{Flow of DFI}{img_left}{jemdoc/img/flow.jpg}{flow}{300}{}{}
 ~~
 
 DFI Overview
